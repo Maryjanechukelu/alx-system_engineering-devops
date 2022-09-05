@@ -1,1 +1,1 @@
-The file iacta will be in the working directory
+containing the text Best School ending by a new line
