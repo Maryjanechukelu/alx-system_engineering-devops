@@ -1,1 +1,1 @@
-containing the text Best School ending by a new line
+It is a good file that cuts iron without making a noise
