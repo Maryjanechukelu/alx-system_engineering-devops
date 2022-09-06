@@ -1,1 +1,1 @@
-Based on the the /etc/passwd file
+containing the text Best School ending by a new line
