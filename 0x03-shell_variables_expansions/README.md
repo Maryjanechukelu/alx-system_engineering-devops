@@ -1,1 +1,1 @@
-The number will be stored in the environment variable NUM
+Create a script that prints all possible combinations of two letters
