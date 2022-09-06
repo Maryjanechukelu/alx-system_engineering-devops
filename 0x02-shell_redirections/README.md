@@ -1,1 +1,1 @@
-containing the text Best School ending by a new line
+Best School ending by a new line
