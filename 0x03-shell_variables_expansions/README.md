@@ -1,1 +1,1 @@
-The number in base 10 is stored in the environment variable DECIMAL
+Write a script that encodes and decodes text using the rot13 encryption
